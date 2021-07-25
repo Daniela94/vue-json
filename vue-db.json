@@ -1,0 +1,8 @@
+{
+	items: [
+		{ id: 1, label: 'item 1', purchased: false, highPriority: false},
+		{ id: 2, label: 'item 2', purchased: false, highPriority: true},
+		{ id: 3, label: 'item 3', purchased: true, highPriority: false}
+	]
+}
+
